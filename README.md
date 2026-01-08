@@ -21,4 +21,4 @@
 
 ### github stat
 
-[![Lightene GitHub stats](https://github-readme-stats.vercel.app/api?username=lightene)](https://github.com/anuraghazra/github-readme-stats)
+[![Lightene's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Lightene)](https://github.com/pranesh-2005/github-readme-stats-fast)
