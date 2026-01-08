@@ -21,4 +21,4 @@
 
 ### github stat
 
-<img src="https://github-readme-stats.vercel.app/api?username=lightene" height="165">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lightene)](https://github.com/anuraghazra/github-readme-stats)
